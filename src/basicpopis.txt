@@ -1,0 +1,8 @@
+Bot sa sustredi na macro - ma pevny "research order" (teda tech ide v rovnakom poradi) pokial ho
+nevyrusi rychli rush , vtedy sa prisbosobi.
+
+Podobne produkuje spravne unity podla toho co ma counterovat (to je vacsinou air).
+
+Micro je A-move ked mam vacsiu armadu :). Rychlost postupu sa vzdy prisposobi tanku , ktory je pomaly.
+
+Z algorimtov pouzivam BFS na vyhladanie pathu cez regiony (ale v konecnej implementacii som ho nevyuzil).
